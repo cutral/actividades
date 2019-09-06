@@ -30,7 +30,7 @@ del conocimiento (Verónica Xhardez)](https://dbellomo.github.io/sl.coop/FCE.Ver
 
 - [Propiedad intelectual y derechos humanos](https://pewen.tk/piydh/)
 
-- Jornadas en el Quechalén
+- Jornadas en la escuela Quechalén
 
 - [Presentación de Software Libre en FERIA INDUSTRIAL GRAN RÍO CUARTO](https://pewen.github.io/sl.com)
 
