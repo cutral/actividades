@@ -12,7 +12,7 @@ pagetitle: actividades
 - [Presentación de FairCoop](https://pewen.tk/fairtalk/)
 
 - [1ra visita de Richard Stallman a Río Cuarto](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=32016)
-  - [Fotos]
+  - [Fotos](https://ecounrc.github.io/rms/img/)
 
 - [propuesta de Dr. Honoris Causa a Stallman](https://ecounrc.github.io/rms/)
 
