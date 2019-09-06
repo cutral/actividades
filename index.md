@@ -26,3 +26,5 @@ del conocimiento (Verónica Xhardez)](https://dbellomo.github.io/sl.coop/FCE.Ver
 - [Responsabilidad legal en nodos de salida de Tor](http://pewen.tk/tor/)
 
 - [RT para salvar la democracia](http://pewen.tk/rt/)
+
+- [Propiedad intelectual y derechos humanos](https://pewen.tk/piydh/)
