@@ -12,6 +12,7 @@ pagetitle: actividades
 - [Presentación de FairCoop](https://pewen.tk/fairtalk/)
 
 - [1ra visita de Richard Stallman a Río Cuarto](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=32016)
+  - [Fotos]
 
 - [propuesta de Dr. Honoris Causa a Stallman](https://ecounrc.github.io/rms/)
 
@@ -28,3 +29,12 @@ del conocimiento (Verónica Xhardez)](https://dbellomo.github.io/sl.coop/FCE.Ver
 - [RT para salvar la democracia](http://pewen.tk/rt/)
 
 - [Propiedad intelectual y derechos humanos](https://pewen.tk/piydh/)
+
+- Jornadas en el Quechalén
+
+- [Presentación de Software Libre en FERIA INDUSTRIAL GRAN RÍO CUARTO](https://pewen.github.io/sl.com)
+
+- [Presentación FLISoL 2015 - Privacidad en Internet](
+https://pewen.github.io/FLISoL2015-privacidad/FLISoL2015-privacidad.pdf)
+
+- [Presentación de Bioleft en el I encuentro de bioeconomía y economía Circular](https://encuentrocircular.github.io)
